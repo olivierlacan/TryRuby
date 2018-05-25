@@ -1,9 +1,9 @@
 ---
-lang:   EN
+lang:   FR
 title:  Give and take
 answer: \d+
 ok:     Right on. Bravo.
-error:  
+error:
 ---
 
 Most methods do not only want some parameters as input, but will also __give something back__.

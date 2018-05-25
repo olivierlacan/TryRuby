@@ -1,10 +1,10 @@
 ---
-lang:   EN
+lang:   FR
 title:  Summary #8, The Hey-Relax-You-Did-Good Summary
-answer: 
+answer:
 class:  stretcher chapmark
-ok:     
-error:  
+ok:
+error:
 load:   def ruby(f);puts "Go to www.ruby-lang.org to download Ruby";end;class K;attr_reader :rb;end;my_first_progam=K.new
 ---
 

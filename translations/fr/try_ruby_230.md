@@ -1,11 +1,11 @@
 ---
-lang:   EN
+lang:   FR
 title:  Of All the Summaries, #3 is Here Now
 answer: \{\}
 class:  stretcher chapmark
 load:   prev
 ok:     You've made an empty hash !
-error:  
+error:
 ---
 
 ### Exclamations

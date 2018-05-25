@@ -1,10 +1,10 @@
 ---
-lang:   EN
+lang:   FR
 title:  Are You Harsh?
 answer: "mediocre"
 load:   books = {"Gravitys Rainbow" => :splendid, "The deep end" => :abyssmal, "Living colors" => :mediocre, "Bumblebees" => :mediocre}
 ok:     Great, wow! You've made a scorecard of your ratings
-error:  
+error:
 ---
 
 So are you giving out harsh, unfair reviews? Let's keep score with a new hash __ratings__:

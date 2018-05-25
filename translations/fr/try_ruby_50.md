@@ -1,9 +1,9 @@
 ---
-lang:   EN
+lang:   FR
 title:  Say Your Name
 answer: [a-zA-Z]{1,1}
 ok:     Perfect, you've formed a string from the letters of your name
-error:  
+error:
 ---
 
 Sure, computers are handy and fast for math. Let's move on. Want to see your name reversed?

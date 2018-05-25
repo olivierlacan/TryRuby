@@ -1,9 +1,9 @@
 ---
-lang:   EN
+lang:   FR
 title:  Noble Kinsmen
 answer: ^The Two Noble Kinsmen$
 ok:     That's much better
-error:  
+error:
 load:   prev
 ---
 

@@ -1,10 +1,10 @@
 ---
-lang:   EN
+lang:   FR
 title:  Hashes as Pairs
 answer: ^\[".*"\]
 load:   prev
 ok:     You found the keys
-error:  
+error:
 ---
 
 Keep in mind that hashes won't keep things in order. That's not their job. It'll just pair up

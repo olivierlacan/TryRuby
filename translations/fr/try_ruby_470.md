@@ -1,9 +1,9 @@
 ---
-lang:   EN
+lang:   FR
 title:  The Stuff Apps are Made of
-answer: 
-ok:     
-error:  
+answer:
+ok:
+error:
 ---
 
 You've opened up a new Blurb<sup>TM</sup> class. What is your blog entry made of?

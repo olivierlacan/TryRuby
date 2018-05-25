@@ -1,10 +1,10 @@
 ---
-lang:   EN
+lang:   FR
 title:  Hey, Summary #1 Already
 answer: ^NoMethodError(.*)$
 class:  stretcher chapmark
 ok:     Nope, it is not possible to reverse a number. Click 'next'
-error:  
+error:
 ---
 
 Let's look at what you've learned in the first minute.

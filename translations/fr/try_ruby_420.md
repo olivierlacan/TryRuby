@@ -1,9 +1,9 @@
 ---
-lang:   EN
+lang:   FR
 title:  If only I new how to make a decision
-answer: 
-ok:     
-error:  
+answer:
+ok:
+error:
 ---
 
 Decision making, in real life this can be a real problem. Not for us though.

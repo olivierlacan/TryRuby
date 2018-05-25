@@ -1,10 +1,10 @@
 ---
-lang:   EN
+lang:   FR
 title:  Too Much Reversal
 answer: ^\["More still did (.+)
 load:   prev
 ok:     Yes, almost what we want
-error:  
+error:
 ---
 
 So the whole poem's been turned backwards, letter-by-letter. I really wanted to just reverse the lines though.

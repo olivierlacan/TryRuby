@@ -1,9 +1,9 @@
 ---
-lang:   EN
+lang:   FR
 title:  An Object, That Neat Little Package
 answer: Blurb:
 ok:     Blurb updated
-error:  
+error:
 load:   prev;blurb1=Blurb.new;blurb1.content="Today Mount Hood Was Stolen!"
 ---
 

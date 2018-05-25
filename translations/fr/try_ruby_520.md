@@ -1,10 +1,10 @@
 ---
-lang:   EN
+lang:   FR
 title:  A Giraffe Has Not Stolen Summary #7
-answer: 
+answer:
 class:  stretcher chapmark
-ok:     
-error:  
+ok:
+error:
 load:   prev;blurb2=Blurb.new :confused, "I can not believe Mt. Hood was stolen!"
 ---
 

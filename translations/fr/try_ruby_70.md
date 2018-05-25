@@ -1,9 +1,9 @@
 ---
-lang:   EN
+lang:   FR
 title:  Counting the Letters
 answer: ^\d+$
 ok:     Yep. Length is also a 'method'
-error:  
+error:
 ---
 
 You have used the reverse __method__ on your name! By enclosing your name in quotes, you made a string. Then you called the reverse method, which works on strings to flip all the letters backwards.

@@ -1,9 +1,9 @@
 ---
-lang:   EN
+lang:   FR
 title:  The Ripened Fruit of Your Own Creation
 answer: ^Tamed a shrew
 ok:     That'll show those shrews
-error:  
+error:
 load:   def tame(number_of_shrews);number_of_shrews.times{puts "Tamed a shrew"};end;
 ---
 

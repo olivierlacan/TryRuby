@@ -1,5 +1,5 @@
 ---
-lang:   EN
+lang:   FR
 title:  Have you got the time?
 answer: ^[0-9]$
 ok:     You timed it just right!

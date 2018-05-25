@@ -1,5 +1,5 @@
 ---
-lang:   EN
+lang:   FR
 title:  And Now For the Startling Conclusion
 answer: is not equal to 100$
 ok:     That's better

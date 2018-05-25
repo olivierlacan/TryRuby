@@ -1,5 +1,5 @@
 ---
-lang:   EN
+lang:   FR
 title:  Numbers and Math
 answer: ^[0-9\.,-]{1,}$
 ok:     Good

@@ -1,9 +1,9 @@
 ---
-lang:   EN
+lang:   FR
 title:  It's All About Combining
 answer: :-
 ok:     Moody !
-error:  
+error:
 load:   prev
 ---
 

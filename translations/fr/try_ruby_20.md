@@ -1,5 +1,5 @@
 ---
-lang:   EN
+lang:   FR
 title:  Using the editor
 answer: ^\d{1,}$
 ok:     Good! You did a bit of math. See how the answer popped out?

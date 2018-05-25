@@ -1,9 +1,9 @@
 ---
-lang:   EN
+lang:   FR
 title:  Say Your Name Backwards
 answer: \w+
 ok:     dooG
-error:  
+error:
 ---
 
 A string is a set of characters the computer can process. Imagine the letters are on a string of

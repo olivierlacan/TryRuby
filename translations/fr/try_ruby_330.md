@@ -1,9 +1,9 @@
 ---
-lang:   EN
+lang:   FR
 title:  The Taming of the Shrew
 answer: ^tame
 ok:     Good good !
-error:  
+error:
 ---
 
 You totally know how to use Ruby now. I mean you've got down the essentials.

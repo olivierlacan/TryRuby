@@ -1,9 +1,9 @@
 ---
-lang:   EN
+lang:   FR
 title:  On Repeat
 answer: (\w+)
 ok:     Nice to meet you.Nice to meet you.Nice to meet you.
-error:  
+error:
 ---
 
 Now, you're probably wondering what any of this is good for.

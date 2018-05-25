@@ -1,5 +1,5 @@
 ---
-lang:   EN
+lang:   FR
 title:  All together now
 answer: ^4$
 ok:     Yes, Shakespeare wrote 4 plays in 1591

@@ -1,5 +1,5 @@
 ---
-lang:   EN
+lang:   FR
 title:  The world is our oyster
 answer: ^\{\"William
 ok:     Good. Bit difficult to read.

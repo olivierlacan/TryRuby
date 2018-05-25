@@ -1,10 +1,10 @@
 ---
-lang:   EN
+lang:   FR
 title:  Summary #6 Which Means You've Come So Far
 answer: \{\}
 class:  stretcher chapmark
 ok:     Ok, that's an empty hash
-error:  
+error:
 ---
 
 You're a level six Ruby cleric. I mean what a great job you've done. Let's review:

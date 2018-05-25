@@ -1,5 +1,5 @@
 ---
-lang:   EN
+lang:   FR
 title:  A Wee Blank Book
 answer: ^(splendid|quite_good|mediocre|quite_not_good|abyssmal)$
 load:   books = {}

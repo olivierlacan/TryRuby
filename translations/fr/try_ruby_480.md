@@ -1,9 +1,9 @@
 ---
-lang:   EN
+lang:   FR
 title:  Accessors Are the Dangling Limbs
 answer: Blurb:
 ok:     My first Blurb
-error:  
+error:
 load:   class Blurb;attr_accessor :content,:time,:mood;end
 ---
 

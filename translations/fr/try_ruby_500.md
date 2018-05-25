@@ -1,9 +1,9 @@
 ---
-lang:   EN
+lang:   FR
 title:  Quickening it Up
 answer: ^\d{4}
 ok:     Noted
-error:  
+error:
 ---
 
 Cool, you're app is awesome. Hey, let's make things a bit easier on you.

@@ -1,10 +1,10 @@
 ---
-lang:   EN
+lang:   FR
 title:  Hello, Who's There? And Summary #5 Waves Its Hat!
-answer: 
+answer:
 class:  stretcher chapmark
-ok:     
-error:  
+ok:
+error:
 ---
 
 Well done, well done, well done, well done!

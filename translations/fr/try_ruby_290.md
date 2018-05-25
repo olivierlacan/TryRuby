@@ -1,5 +1,5 @@
 ---
-lang:   EN
+lang:   FR
 title:  A Tally
 answer: \w+
 ok:     Yodelay!

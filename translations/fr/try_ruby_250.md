@@ -1,5 +1,5 @@
 ---
-lang:   EN
+lang:   FR
 title:  More Bite-Size Reviews
 answer: [3-9]
 load:   books = {"Gravitys Rainbow" => :splendid}

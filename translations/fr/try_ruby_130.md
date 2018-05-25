@@ -8,6 +8,6 @@ error:
 
 Une liste de numéros de lotterie. Lequel est le plus grand ?
 
-Essaye:
+Essaie :
 
     [12, 47, 35].max

@@ -1,10 +1,10 @@
 ---
-lang:   EN
+lang:   FR
 title:  To (be) or not to (be)
-answer: 
+answer:
 load:   poem = "My toast has flown from my hand\nAnd my toast has gone to the moon.\nYada yada yada\n"
-ok:     
-error:  
+ok:
+error:
 ---
 
 One other little thing we haven't really talked about openly: method arguments.

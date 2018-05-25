@@ -1,10 +1,10 @@
 ---
-lang:   EN
+lang:   FR
 title:  Ringlets of Chained Methods
 answer: ^More still did (.+)
 load:   prev
 ok:     Good show, my friend! The join method took that array of lines and put them together into a string.
-error:  
+error:
 ---
 
 So what do you see? What happened there? You typed __poem.lines.reverse__ and what happened?

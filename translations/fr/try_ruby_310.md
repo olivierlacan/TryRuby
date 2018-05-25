@@ -1,10 +1,10 @@
 ---
-lang:   EN
+lang:   FR
 title:  Now Arriving at Summary #4
-answer: 
+answer:
 class:  stretcher chapmark
-ok:     
-error:  
+ok:
+error:
 ---
 
 This last lesson was a bit longer. You've probably used up three minutes learning about:

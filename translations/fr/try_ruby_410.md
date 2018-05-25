@@ -1,5 +1,5 @@
 ---
-lang:   EN
+lang:   FR
 title:  All's Well That Ends Well
 answer: All's Well That Ends Well
 ok:     True

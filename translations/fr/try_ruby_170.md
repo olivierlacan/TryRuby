@@ -13,7 +13,7 @@ Comment faire pour les retrouver ?
 On a déjà vu qu'il est possible d'obtenir le numéro le plus élevé avec __max__.
 On peut également obtenir le premier (__first__) ou le dernier (__last__)
 élement de la liste.
-Mais que faire si on a besoin d'un élement specifique de la liste?
+Mais que faire si on a besoin d'un élement specifique de la liste ?
 
 ### [ ]
 Ruby utilise des crochets droits [ ] pour viser un élement.
@@ -29,7 +29,7 @@ Recupèrons tous nos numéros de lotto :
 
 Pourquoi utiliser [0], [1], [2] ?
 
-Et pourquoi pas [1], [2] and [3] ? Est-ce que c'est une éspèce de truc Zen japonais ?
+Et pourquoi pas [1], [2] et [3] ? Est-ce que c'est une éspèce de truc Zen japonais ?
 Non, nous autre les amis des ordinateurs on préfère juste commencer à compter à
 partir de zéro. C'est pas juste un truc dans Ruby, ça s'appelle _l'indexation à
 base zéro_ et c'est utilisé dans la plupart des languages de programmation.

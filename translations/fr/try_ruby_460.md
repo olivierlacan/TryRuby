@@ -1,9 +1,9 @@
 ---
-lang:   EN
+lang:   FR
 title:  Not a School Class, a Working Class
-answer: 
-ok:     
-error:  
+answer:
+ok:
+error:
 ---
 
 You see, the empty curly braces {} is a shortcut for Hash.new. The new method is used to make objects

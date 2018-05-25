@@ -1,10 +1,10 @@
 ---
-lang:   EN
+lang:   FR
 title:  Wait, Did I Like Gravity's Rainbow?
 answer: ^(splendid|quite_good|mediocre|quite_not_good|abyssmal)$
 load:   books = {"Gravitys Rainbow" => :splendid, "The deep end" => :abyssmal, "Living colors" => :mediocre}
 ok:     I liked it a lot
-error:  
+error:
 ---
 
 One great thing about Ruby is that names are often reused, which means fewer names you need to remember.

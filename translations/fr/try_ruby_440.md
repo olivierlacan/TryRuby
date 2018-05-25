@@ -1,5 +1,5 @@
 ---
-lang:   EN
+lang:   FR
 title:  Me hungry
 answer: ^Me not hungry.$
 ok:     Yes

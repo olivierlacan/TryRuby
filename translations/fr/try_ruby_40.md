@@ -1,9 +1,9 @@
 ---
-lang:   EN
+lang:   FR
 title:  Putting it differently
 answer: ^[0-9\.,-]{1,}$
 ok:     Well put
-error:  
+error:
 ---
 
 Did you notice that if you typed more than one formula you only saw the answer for the last one.
