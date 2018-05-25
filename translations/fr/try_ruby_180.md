@@ -3,7 +3,7 @@ lang:   FR
 title:  Le résumé #2 est arrivé
 answer: \w+
 class:  stretcher chapmark
-load:   poem = "My toast has flown from my hand\nAnd my toast has gone to the moon.\nBut when I saw it on television,\nPlanting our flag on Halley's comet,\nMore still did I want to eat it.\n"
+load:   poem = "Ma biscotte s'est envolée de ma main\nEt ma biscotte est allée sur la lune.\nMais quand je l'ai vue à la télé,\nPlanter son drapeau sur une comète,\nJ'avais encore plus envie de la manger.\n"
 ok:     Est-ce que ça rime?
 error:
 ---

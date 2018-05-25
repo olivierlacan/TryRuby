@@ -1,21 +1,25 @@
 ---
-lang:   EN
-title:  Ringlets of Chained Methods
-answer: ^More still did (.+)
+lang:   FR
+title:  Méthodes à la chaîne
+answer: ^J'avais encore plus (.+)
 load:   prev
-ok:     Good show, my friend! The join method took that array of lines and put them together into a string.
-error:  
+ok:     Bravo, l'ami ! La méthode join a pris l'array de lignes et les as assemblé en un string.
+error:
 ---
 
-So what do you see? What happened there? You typed __poem.lines.reverse__ and what happened?
+Alors qu'est-ce que tu vois ? Qu'est-ce qu'il s'est passé ?
+Tu as tappé __poem.lines.reverse__ et que ce que ça a donné ?
 
-Two things happened. You turned the poem into a list using lines.
-Lines decides the way the string is split up and converts it into an Array.
+Il s'est passé deux choses. Tu as transformé le poème en une liste
+en utilisant lines.
+La méthode lines decide la façon dont le string est découpé et le convertit en
+un Array.
 
-Then, you reversed that list. You had each line. You reversed them. That's it.
+Ensuite, tu as inversé cette liste. Tu avais chaque ligne. Tu les as inversées.
+C'est tout.
 
-Let's tack one more method on the end there:
+Ajoutons une dernière méthode au bout ici :
 
     puts poem.lines.reverse.join
 
-Combining methods like this is called _method chaining_.
+Combiner plusieurs méthodes comme ça est appellé un _chaînage de méthodes_.
